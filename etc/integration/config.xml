@@ -1,0 +1,7 @@
+ <integrations>
+    <integration name="AnfitrionIntegration">
+       <email>sergio@zacatrus.es</email>
+       <endpoint_url>https://example.com</endpoint_url>
+       <identity_link_url>https://example.com/identity_link_url</identity_link_url>
+    </integration>
+ </integrations>
